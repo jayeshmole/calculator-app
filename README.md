@@ -7,10 +7,7 @@ A simple calculator application built using React. This project demonstrates bas
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear the current calculation with a single button.
 - Responsive and user-friendly interface.
-
-## Demo
-
-![Calculator Screenshot](screenshot.png)
+  
 
 ## Installation
 
@@ -19,20 +16,4 @@ A simple calculator application built using React. This project demonstrates bas
    git clone https://github.com/jayeshmole/calculator-app.git
    ```
 
-File Structure
 
-java
-
-calculator-app/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── components/
-│ │ ├── Calculator.jsx
-│ │ ├── Calculator.css
-│ └── App.js
-│ └── index.js
-├── .gitignore
-├── package.json
-└── README.md
